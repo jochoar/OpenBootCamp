@@ -1,5 +1,5 @@
-peso = input("Cual es tu peso en kg?")
-altura = input("Cual es tu altura en metros")
+peso = input("What is your weight in kg?")
+altura = input("What is your height in meters?")
 
 #mathematical formula to calculate body mass index
 indexMassc = round(float(peso)/float(altura)**2.2) 
