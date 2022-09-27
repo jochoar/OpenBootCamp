@@ -4,7 +4,7 @@
 
 import tkinter as tk
 from tkinter import ttk
-from webbrowser import BackgroundBrowser
+
 
 class windowMenu(ttk.Frame):
     
